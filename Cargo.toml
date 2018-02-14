@@ -1,0 +1,6 @@
+[package]
+name = "sketchy"
+version = "0.1.0"
+authors = ["James Deng <james.deng@alumni.ubc.ca>"]
+
+[dependencies]
